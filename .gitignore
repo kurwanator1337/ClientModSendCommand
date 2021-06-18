@@ -3,3 +3,5 @@
 ################################################################################
 
 /ClientModSendCommand/obj
+/.vs
+/ClientModSendCommand/bin/Debug
